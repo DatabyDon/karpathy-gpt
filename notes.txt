@@ -1,1 +1,3 @@
 learned what !wget was
+first time using git inside VS Code
+!wget didn't work so we're moving to urllib from the request python package
